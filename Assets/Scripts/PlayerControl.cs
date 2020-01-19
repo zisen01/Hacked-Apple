@@ -87,7 +87,7 @@ public class PlayerControl : MonoBehaviour
 
     /* apply an upward force, make the player jump */
     private void actionJump(Vector3 rf) {
-        Vector3 norm = new Vector3(0f, 30f, 0f);
+        Vector3 norm = new Vector3(0f, 35f, 0f);
         this.rb.AddForce(Vector3.Scale(rf, norm), this.fm);
     }
 

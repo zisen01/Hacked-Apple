@@ -14,7 +14,7 @@ Public Methods:
 */
 public class GameManager : MonoBehaviour
 {
-    public Vector3 respawn_pos;
+    public Vector3 respawn_pos; // player respawning position
     public Transform player_trans; // player tansform
     public Rigidbody player_rb; // player rigidbody
     public Text title; // the title of this level

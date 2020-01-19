@@ -8,7 +8,7 @@ This class control all changes in setting potentially made by the player
 */
 public class SettingControl : MonoBehaviour
 {
-    public GameManager gm; // game manager may be needed (no use now)
+    public GameManager gm; // game manager may be needed (not used a.t.m. )
     public PlayerControl pc; // player control is needed to update move sensitivity
     public Slider sensitivity; // sensitivity slider in setting bar
     public Text sensititivty_text; // sensitivity text is needed to show slider value
