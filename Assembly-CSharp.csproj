@@ -48,6 +48,7 @@
      <Compile Include="Assets\ObjectBehavior\Moving.cs" />
      <Compile Include="Assets\ObjectBehavior\Turning_Beh.cs" />
      <Compile Include="Assets\Scripts\Arrived.cs" />
+     <Compile Include="Assets\Scripts\ButtonBlockControl.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\PlayerCamera.cs" />
      <Compile Include="Assets\Scripts\PlayerControl.cs" />

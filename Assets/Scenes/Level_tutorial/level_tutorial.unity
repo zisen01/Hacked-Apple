@@ -277,7 +277,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 6.85e-43, y: 4.029056e-37, z: 0, w: -6.1132366e-24}
+  m_BoundingSphereOverride: {x: 0, y: 8.7e-44, z: 2.442e-42, w: 1.05e-43}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1046,7 +1046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3aa14b580faee5f47a72e68ff14e289c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initial_pos: {x: 0, y: 7, z: 0}
+  respawn_pos: {x: 0, y: 7, z: 0}
   player_trans: {fileID: 679261786}
   player_rb: {fileID: 1478649204}
   title: {fileID: 1619617804}
