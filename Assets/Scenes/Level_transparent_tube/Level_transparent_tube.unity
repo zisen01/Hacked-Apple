@@ -2222,7 +2222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3aa14b580faee5f47a72e68ff14e289c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  respawn_pos: {x: 0, y: 0, z: 0}
+  respawn_pos: {x: 0.7, y: 7, z: 0}
   player_trans: {fileID: 95438684}
   player_rb: {fileID: 95438682}
   title: {fileID: 1862535812}
